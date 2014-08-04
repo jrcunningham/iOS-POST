@@ -7,4 +7,4 @@ This repo does NOT contain any server side code. Just put in your ip name and mo
 
 Please note this is a very basic boilerplate, intended for my own use, feel free to use at you own risk.
 
-![screen shot](https://raw.github.com/jrcunningham/iOS-POST/master/iOS\ Simulator\ Screen\ shot\ 4\ Aug\ 2014\ 08.37.34.png
+![screen shot](https://raw.github.com/jrcunningham/iOS-POST/master/iOS%20Simulator%20Screen%20shot%20%20Aug%202014%2008.37.34.png
