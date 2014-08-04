@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<NSURLConnectionDataDelegate, NSURLConnectionDelegate, UITextFieldDelegate>
+@property (weak, nonatomic) IBOutlet UITextView *text;
+@property (weak, nonatomic) IBOutlet UITextField *txtAddress;
+@property (nonatomic, weak) id <UITextFieldDelegate>delegate;
+
 
 @end
